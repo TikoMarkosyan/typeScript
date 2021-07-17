@@ -1,0 +1,77 @@
+.list_left {
+    display: flex;
+    flex-direction: column;
+    margin-right: 22px;
+    color: green;
+}
+
+.for_li{
+    list-style:none;
+    display: flex;
+    justify-content: flex-end;
+    color: green;
+}
+.liga_title{
+    color: black;
+    text-align: left;
+    margin-left: 5px;
+}
+.club_title{
+    color: black;
+    text-align: left;
+    display: flex;
+    margin-left: 37px;
+}
+.disabled{
+    color: red;
+}
+
+.margin{
+    margin-right: 30px;
+}
+
+
+
+ul, #myUL {
+    list-style-type: none;
+  }
+  
+  #myUL {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .caret {
+    cursor: pointer;
+    -webkit-user-select: none; /* Safari 3.1+ */
+    -moz-user-select: none; /* Firefox 2+ */
+    -ms-user-select: none; /* IE 10+ */
+    user-select: none;
+  }
+  
+  .caret::before {
+    color: black;
+    display: inline-block;
+    margin-right: 6px;
+  }
+
+  .nested {
+    display: none;
+  }
+
+  .arrow {
+    transition: transform .2s;
+    padding-right: 5px;
+  }
+  .arrow.active {
+    transform: rotateZ(-180deg);
+  }
+  .active {
+    display: block;
+    padding-left: 4px;
+  }
+
+  .list-box{
+    border: 4px dotted black;
+    margin-right: 75px;
+  }

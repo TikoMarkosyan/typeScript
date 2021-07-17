@@ -1,0 +1,88 @@
+{
+    "teams":[
+        {
+            "ligaName":"Seria A",
+            "clubName": "FC Juventus",
+            "disabled":false,
+            "players":[
+                {
+                    "name":"Cristiano Ronaldo",
+                    "Goals":30,
+                    "Appearances":40,
+                    "Tackle":17,
+                    "disabled":false
+                },
+                {
+                    "name":"Lenardo Bonucci",
+                    "Goals":20,
+                    "Appearances":40,
+                    "Tackle":17,
+                    "disabled":false
+                }
+            ]
+        },
+        {
+            "ligaName":"Seria A",
+            "clubName": "AC Milan",
+            "disabled":false,
+            "players":[
+                {
+                    "name":"Gianluigi Donnarumma",
+                    "Goals":35,
+                    "Appearances":85,
+                    "Tackle":12,
+                    "disabled":false
+                },
+                {
+                    "name":"Krzysztof Piqtek",
+                    "Goals":10,
+                    "Appearances":20,
+                    "Tackle":19,
+                    "disabled":false
+                }
+            ]
+        },
+        {
+            "ligaName":"Premier League",
+            "clubName": "FC Liverpool",
+            "disabled":false,
+            "players":[
+                {
+                    "name":"Mohamed Salah",
+                    "Goals":35,
+                    "Appearances":85,
+                    "Tackle":12,
+                    "disabled":false
+                },
+                {
+                    "name":"Roberto Firmino",
+                    "Goals":60,
+                    "Appearances":10,
+                    "Tackle":12,
+                    "disabled":false
+                }
+            ]
+        },
+        {
+            "ligaName":"Premier League",
+            "clubName": "Tottenham Hotspur",
+            "disabled":false,
+            "players":[
+                {
+                    "name":"Son Heung-min",
+                    "Goals":35,
+                    "Appearances":85,
+                    "Tackle":12,
+                    "disabled":false
+                },
+                {
+                    "name":"Dele Alii",
+                    "Goals":60,
+                    "Appearances":10,
+                    "Tackle":12,
+                    "disabled":false
+                }
+            ]
+        }
+    ]
+ }

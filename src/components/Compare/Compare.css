@@ -1,0 +1,50 @@
+.box_size{
+    width: 570px;
+    height: 300px;
+}
+
+.bad{
+    color: #6403ff;;
+}
+.good{
+    color: #00ff1f;;
+}
+
+.right_left{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    border: 2px dotted;
+    padding: 9px;
+    min-height: 300px;
+    
+}
+.players_info{
+    display: flex;
+    border: 1px solid black;
+    padding: 13px;
+    flex-direction: column;
+}
+.normal{
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+
+#button { 
+    justify-content: flex-end;
+}
+.for_P{
+    text-align: left;
+    border-bottom: 1px solid black;
+    padding: 0px;
+    margin: 0px;
+}
+
+.module-border-wrap {
+    max-width: 250px;
+    padding: 1rem;
+    position: relative;
+    background: linear-gradient(to right, red, purple);
+    padding: 3px;
+  }
